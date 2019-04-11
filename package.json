@@ -1,0 +1,15 @@
+{
+  "name": "webp-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^6.1.0",
+    "imagemin-webp": "^5.0.0"
+  }
+}
